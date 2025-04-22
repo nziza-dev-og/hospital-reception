@@ -186,7 +186,7 @@ const Support = () => {
                 <p className="mt-1 text-sm text-secondary-500">
                   Available Monday-Friday, 9AM-5PM
                 </p>
-                <p className="mt-1 text-sm font-medium">+1 (800) 123-4567</p>
+                <p className="mt-1 text-sm font-medium">+250 736 369 412</p>
               </div>
             </div>
             
@@ -195,9 +195,9 @@ const Support = () => {
               <div>
                 <h3 className="text-sm font-medium text-secondary-900">Email Support</h3>
                 <p className="mt-1 text-sm text-secondary-500">
-                  We'll respond within 24 hours
+                  We'll respond within 3 hours
                 </p>
-                <p className="mt-1 text-sm font-medium">support@patientflow.com</p>
+                <p className="mt-1 text-sm font-medium">nzizadev@gmail.com</p>
               </div>
             </div>
             
